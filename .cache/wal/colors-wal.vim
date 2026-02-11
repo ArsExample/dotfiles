@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/example/Images/wallpapers/purple1.jpg"
+let background = "#090410"
+let foreground = "#f5e4bd"
+let cursor     = "#f5e4bd"
+
+" Colors
+let color0  = "#090410"
+let color1  = "#A75C8B"
+let color2  = "#9F6784"
+let color3  = "#CF6187"
+let color4  = "#FA768B"
+let color5  = "#FE8E8C"
+let color6  = "#FEAE89"
+let color7  = "#f5e4bd"
+let color8  = "#ab9f84"
+let color9  = "#A75C8B"
+let color10 = "#9F6784"
+let color11 = "#CF6187"
+let color12 = "#FA768B"
+let color13 = "#FE8E8C"
+let color14 = "#FEAE89"
+let color15 = "#f5e4bd"

@@ -45,7 +45,7 @@ Variants{
 				anchors.left: power.right
 				anchors.leftMargin: 150
 
-				content: JSON.stringify(Pipewire.defaultAudioSink.id)
+				content: JSON.stringify(Pipewire.defaultAudioSink.audio.muted)
 			}
 		}
 	}

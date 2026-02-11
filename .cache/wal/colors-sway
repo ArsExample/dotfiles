@@ -1,0 +1,21 @@
+set $wallpaper /home/example/Images/wallpapers/purple1.jpg
+
+set $background #090410
+set $foreground #f5e4bd
+
+set $color0 #090410
+set $color1 #A75C8B
+set $color2 #9F6784
+set $color3 #CF6187
+set $color4 #FA768B
+set $color5 #FE8E8C
+set $color6 #FEAE89
+set $color7 #f5e4bd
+set $color8 #ab9f84
+set $color9 #A75C8B
+set $color10 #9F6784
+set $color11 #CF6187
+set $color12 #FA768B
+set $color13 #FE8E8C
+set $color14 #FEAE89
+set $color15 #f5e4bd
