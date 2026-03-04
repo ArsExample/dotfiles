@@ -1,7 +1,6 @@
 {
     "wallpaper": "/home/example/Images/wallpapers/wpA.jpg",
     "alpha": "100",
-
     "special": {
         "background": "#0F130D",
         "foreground": "#dce4d1",

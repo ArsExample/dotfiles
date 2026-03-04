@@ -1,6 +1,6 @@
-if [[ -z "$TMUX" ]]; then
-    wal -i /home/example/Images/wallpapers/purple1.jpg
-fi
+# if [[ -z "$TMUX" ]]; then
+#     wal -i /home/example/Images/wallpapers/purple1.jpg
+# fi
 clear
 fastfetch
 
@@ -40,8 +40,7 @@ alias nvim='$nvim'
 alias n='nvim'
 alias cat='bat'
 alias py="python3"
-#alias fzf=$'nvim "$(fzf --preview \'bat --color=always --style=numbers --line-range=:500 {}\')"'
-#alias f="nvim \"\$(fzf --preview 'bat --color=always --style=numbers --line-range=:500 {}')\""
+alias t="tmux attach || tmux"
 
 # yazi configuration
 function y() {
