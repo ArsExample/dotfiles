@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/example/artix-dotfiles/Images/wallpapers/kaneki.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0605",
+        "foreground": "#dfdddd",
+        "cursor": "#dfdddd"
+    },
+    "colors": {
+        "color0": "#0B0605",
+        "color1": "#837B7B",
+        "color2": "#85807F",
+        "color3": "#928D8D",
+        "color4": "#A39D9C",
+        "color5": "#B2AEAE",
+        "color6": "#C2BDBD",
+        "color7": "#dfdddd",
+        "color8": "#9c9a9a",
+        "color9": "#837B7B",
+        "color10": "#85807F",
+        "color11": "#928D8D",
+        "color12": "#A39D9C",
+        "color13": "#B2AEAE",
+        "color14": "#C2BDBD",
+        "color15": "#dfdddd"
+    }
+}

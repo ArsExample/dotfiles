@@ -4,6 +4,10 @@
 clear
 fastfetch
 
+
+# Hyprland variables
+export XDG_RUNTIME_DIR=/run/user/$(id -u)
+
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
@@ -41,6 +45,8 @@ alias n='nvim'
 alias cat='bat'
 alias py="python3"
 alias t="tmux attach || tmux"
+alias a="ping ya.ru"
+alias cr="cargo run"
 
 # yazi configuration
 function y() {
@@ -55,3 +61,6 @@ function y() {
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 . "$HOME/.local/share/../bin/env"
+
+# opencode
+export PATH=/home/example/.opencode/bin:$PATH
