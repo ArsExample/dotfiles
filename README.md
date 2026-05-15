@@ -9,7 +9,7 @@
 
 ### С помощью GNU Stow
 ```bash
-# В домашней папке
+# В домашней директории
 git clone https://github.com/ArsExample/dotfiles.git
 cd dotfiles
 stow .
